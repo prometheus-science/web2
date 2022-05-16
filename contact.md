@@ -1,22 +1,24 @@
 ---
 layout: page
 title: Contact Us
-share-title: AttaliTech | Contact Us
+share-title: Prometheus Science | Contact Us
 ---
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <script>enableSubmitContact = function(){ document.getElementById("submit_contact").disabled = false; }</script>
 
-For any R/Shiny consulting inquiries, please email [info@attalitech.com](mailto:info@attalitech.com?subject=Shiny consulting inquiry)
+For any consulting inquiries, please email [contact@prometheus-science.com](mailto:contact@prometheus-science.com?subject=consulting inquiry)
 
 Note that before any work can be performed, a (virtual) meeting is usually held to gather requirements and discuss your needs.
 
+<!-->
 <div style="text-align: center;">
 <a href="https://calendly.com/attalitech/meeting" class="schedule-btn actionbtn">
   <span class="far fa-calendar-check" aria-hidden="true"></span>
   Schedule Meeting
 </a>
 </div>
+-->
 
 You can also send us a message using this form:
 
@@ -30,6 +32,7 @@ You can also send us a message using this form:
     </div>
   </div>
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  
   <div style="margin-top: 5px; display: flex; margin-bottom: 15px; font-size: 0.7rem;">
     <input type="checkbox" id="formspree-subscribe" name="formspree-subscribe" value="agree" checked style="margin-top: 2px; margin-right: 4px;" />
     <label for="formspree-subscribe">Sign up to Shiny newsletter (unsubscribe at any time)</label>

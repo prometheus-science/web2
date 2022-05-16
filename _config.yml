@@ -1,8 +1,8 @@
 remote_theme: daattali/beautiful-jekyll
 
-title: AttaliTech
+title: Prometheus Science
 
-author: AttaliTech Ltd
+author: Chagas Science Consultancy Limited
 
 navbar-links:
   Services: "/#services"
@@ -15,7 +15,7 @@ title-img: /assets/img/attalitech-logo-light.png
 
 site-css: "/assets/css/attalitech.css"
 
-keywords: "r shiny,shiny developer,shiny consultant,r consultant,shiny apps"
+keywords: "open source hardware, open science ,open source hardware,3d printing"
 
 mobile-theme-col: "#0085A1"
 navbar-col: "#05172d"
@@ -23,20 +23,20 @@ navbar-text-col: "#fff"
 navbar-border-col: "#05172d"
 
 social-network-links:
-  email: "info@attalitech.com"
-  github: daattali
-  twitter: daattali
-  calendly: "attalitech/meeting"
-  youtube: "c/daattali?sub_confirmation=1"
-  patreon: DeanAttali
+  email: "contact@prometheus-science.com"
+  github: amchagas
+  twitter: Prometheus_sci
+  #calendly: "attalitech/meeting"
+  #youtube: "c/daattali?sub_confirmation=1"
+  #patreon: DeanAttali
 
-url-pretty: "AttaliTech.com"
+url-pretty: "prometheus-science.com"
 
 footer-img: "/assets/img/footer-bg.png"
 
-google_analytics: "UA-59820529-1"
+#google_analytics: "UA-59820529-1"
 
-timezone: "America/Toronto"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 
@@ -51,7 +51,7 @@ defaults:
       layout: "page"
       footer-extra: custom_footer.html
       nav-short: true
-      share-description: "AttaliTech provides world-class R/Shiny consulting. Services include building professional Shiny apps, auditing Shiny code, package building, mentoring and training. Led by renowned expert Dean Attali."
+      share-description: "Prometheus Science is dedicated to the improvement of research and education through open science services and open source hardware tools."
       share-img: "/assets/img/attalitech.png"
 
 exclude:

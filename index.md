@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "AttaliTech | Expert R-Shiny Consulting"
+title: "Prometheus Science | Open Science for everyone"
 css:
   - /assets/css/index.css
 ext-css:
@@ -15,11 +15,11 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# AttaliTech {#title}
+# Prometheus Science {#title}
 
-## R-Shiny Consulting {#subtitle}
+## Open Science for everyone {#subtitle}
 
-#### Led by World-Renowned Shiny Expert [Dean Attali](https://deanattali.com/) {#sub-subtitle}
+#### Led by open source hardware expert [Andre M Chagas](https://amchagas.github.io) {#sub-subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
@@ -41,20 +41,20 @@ ext-js:
     <div id="services-list">
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
-        <div class="service-text">Building or improving Shiny apps of any complexity</div>
+        <div class="service-text">Development of Open source scientific equipment</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
-        <div class="service-text">Expert advice in Shiny, including private tutoring</div>
+        <div class="service-text">Replication of open source hardware designs</div>
       </div>
       <div id="services-break"></div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
-        <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
+        <div class="service-text">Consulting on implementation of open source/open science best practices</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
-        <div class="service-text">Professional quality R packages and custom solutions</div>
+        <div class="service-text">Training workshops on open source hardware/openscience/electronics</div>
       </div>
     </div>
 
@@ -71,7 +71,7 @@ ext-js:
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
-      AttaliTech was launched in 2016 as the world's <b>first</b> Shiny consulting firm. The goal was simple: provide a one-stop shop for any and all of your Shiny needs, while adhering to the <b>highest standards</b>. Today, AttaliTech is a <b>global leader</b> in providing top quality R/Shiny services and is trusted by over 100 companies worldwide. We take pride in knowing you won't get better quality anywhere else.<br/><br/><b>We're certain of it.</b>
+      Prometheus Science is a young company and one of the first to provide consulting and services around open source hardware. With the simple goal to provide a one-stop shop for all research equipment needs while adhering to the best open source practices. Providing high quality services and solutions being trusted by world renowned research institutions, start-ups and individuals. We take pride in being active members and allies of the open source hardware community.
     </div>
   </div>
 </div>
@@ -109,7 +109,7 @@ ext-js:
 
 <div id="aboutme-section-out" class="page-section grey-section cut2">
   <div id="aboutme-section">
-    <div class="section-title">About the CEO</div>
+    <div class="section-title">About the founder</div>
 	<div id="aboutme-list" markdown="1">
 {% for info in site.data.main_info %}
 {% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
