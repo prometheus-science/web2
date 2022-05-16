@@ -82,7 +82,7 @@ ext-js:
   <div id="values">
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
-      At AttaliTech, we care about good code, good user experience, and doing things <b>right</b>.<br/><br/>
+      At Prometheus, we care about good research, affordable, open customisable tools, and doing things <b>right</b>.<br/><br/>
       We believe in developing every project as if it's your own, <b>never </b>compromising on code quality or end-user experience. We focus on more than just delivering a final product - we're always looking for ways to add more <b>value</b> to our clients. Our clients enjoy peace of mind knowing they can trust us to deliver clean, robust, maintainable code that just works.
     </div>
     <a href="/contact" class="actionbtn">
@@ -94,7 +94,7 @@ ext-js:
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
     <div class="section-title">Clients</div>
-    <div id="clients-subtitle">Clients range from startups to universities to Fortune 500 companies</div>
+    <div id="clients-subtitle">Clients range from labs across the globe, private companies and individuals</div>
     <div id="client-logos">
       {% for client in site.data.clients %}
         <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
@@ -125,7 +125,7 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div class="section-title">
-      Open-Sourced Shiny Apps
+      Open-Source hardware & Open Science projects we worked on
     </div>
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}
@@ -143,7 +143,7 @@ ext-js:
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">Take Your Shiny Apps to the Highest Level</div><br/>
+    <div class="section-title">Take Your science to the Highest Level</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>

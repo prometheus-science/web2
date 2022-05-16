@@ -11,7 +11,7 @@ For any consulting inquiries, please email [contact@prometheus-science.com](mail
 
 Note that before any work can be performed, a (virtual) meeting is usually held to gather requirements and discuss your needs.
 
-<!-->
+<!--
 <div style="text-align: center;">
 <a href="https://calendly.com/attalitech/meeting" class="schedule-btn actionbtn">
   <span class="far fa-calendar-check" aria-hidden="true"></span>

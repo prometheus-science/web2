@@ -1,12 +1,12 @@
 - name: Freie Universtaet Berlin
-  img: jnj.png
-  url: https://www.jnj.com/
+  img: fub-logo.png
+  url: https://lab.flygen.org/
   height: 3.125rem
 - name: University of Dundee 
-  img: stanforduni.png
-  url: https://www.stanford.edu/
+  img: dundee.png
+  #url: https://www.stanford.edu/
 - name: Pontificia Universidad Catolica de Chile
-  img: lrw.png
+  img: puc_chile.jpeg
   url: https://lrwonline.com/
 - name: NC State University
   img: roche.png
@@ -27,5 +27,5 @@
   img: dfnet.png
   url: https://www.dfnetresearch.com/
 - name: 3D Neuro
-  img: berkeley.png
-  url: https://www.berkeley.edu/
+  img: 3Dneuro.png
+  url: https://www.3dneuro.com/

@@ -1,10 +1,11 @@
 ---
 title: "Payment Options"
-share-title: AttaliTech | Payment Options
+share-title: Prometheus Science | Payment Options
 ---
 
-For any questions regarding payment, please email [payments@attalitech.com](mailto:payments@attalitech.com)
+For any questions regarding payment, please email [andre@prometheus-science.com](mailto:andre@prometheus-science.com)
 
+<!--
 If paying in **US Dollars**, your options are:
 
 - Zelle or email transfer <button data-target="#zelle" class="btn btn-link" data-toggle="collapse">Details</button>
@@ -33,10 +34,12 @@ If paying in **US Dollars**, your options are:
 
   If you would like to pay with a credit card, [let us know](mailto:payments@attalitech.com) and we will send you a link to a secure payment page. Note: a 3.50% service fee applies.
   {: #cc .collapse}
-  
+
+-->
+
 - PayPal <button data-target="#paypal" class="btn btn-link" data-toggle="collapse">Details</button>
 
-  If you would like to pay with PayPal, [let us know](mailto:payments@attalitech.com) and we will send you a link to a secure payment page. Note: a 3.50% service fee applies.
+  If you would like to pay with PayPal, [let us know](mailto:andre@prometheus-science.com) and we will send you a link to a secure payment page. Note: a 3.50% service fee applies.
   {: #paypal .collapse}
   
 - Wire transfer <button data-target="#wire" class="btn btn-link" data-toggle="collapse">Details</button>
