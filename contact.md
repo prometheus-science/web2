@@ -11,14 +11,14 @@ For any consulting inquiries, please email [contact@prometheus-science.com](mail
 
 Note that before any work can be performed, a (virtual) meeting is usually held to gather requirements and discuss your needs.
 
-<!--
+
 <div style="text-align: center;">
-<a href="https://calendly.com/attalitech/meeting" class="schedule-btn actionbtn">
+<a href="https://calendly.com/promethsci-meeting/30min" class="schedule-btn actionbtn">
   <span class="far fa-calendar-check" aria-hidden="true"></span>
   Schedule Meeting
 </a>
 </div>
--->
+
 
 You can also send us a message using this form:
 
@@ -41,10 +41,11 @@ You can also send us a message using this form:
   </div>
 
   <div class="g-recaptcha" data-sitekey="6LcT5_kfAAAAAFhN2wtb9wCcLRSptb6-aot-BaFo" data-callback="enableSubmitContact"></div>
-  <input type="hidden" name="_feedback.success.title" value="Thanks for contacting AttaliTech, we'll be in touch shortly!" />
-  <input type="hidden" name="_email.from" value="Formspark AttaliTech" />
+  <!--
+  <input type="hidden" name="_feedback.success.title" value="Thanks for contacting Prometheus Science, we'll be in touch shortly!" />
+  <input type="hidden" name="_email.from" value="Formspark Prometheus Science" />
   <input type="hidden" name="_feedback.error.title" value="An error occurred (did you check the &quot;I'm not a robot&quot; box?)" />
-
+-->
   <br/>
   <button id="submit_contact" type="submit" class="btn btn-lg btn-primary" disabled>Submit</button>
 </form>
