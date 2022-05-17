@@ -88,7 +88,9 @@ ext-js:
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
       At Prometheus, we care about good research, affordable, open customisable tools, and doing things <b>right</b>.<br/><br/>
-      We believe in developing every project as if it's your own, <b>never </b>compromising on code quality or end-user experience. We focus on more than just delivering a final product - we're always looking for ways to add more <b>value</b> to our clients. Our clients enjoy peace of mind knowing they can trust us to deliver clean, robust, maintainable code that just works.
+      We belive in supporting the communities that make Open Science and Open Source Hardware what it is today. This is why part of our profits will be reverted back to the original developers of the open tools replicated in the form of a donation. <br><br>
+      We believe it is important to recognize previous work and incentivise developers to keep improving their current tools.  
+      Whenever Prometheus Science services are provided using only things developed internally, part of the profits will be donated to an NGO of choice.
     </div>
     <a href="/contact" class="actionbtn">
       Work With Us
