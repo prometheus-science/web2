@@ -10,6 +10,11 @@ js:
 ext-js:
   - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
 ---
+<head>
+
+<script defer data-domain="prometheus-science.com" src="https://plausible.io/js/plausible.js"></script>
+
+</head>
 
 <div id="header" class="cut1" markdown="1">
 
