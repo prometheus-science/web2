@@ -13,16 +13,16 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="27.756px"
-   height="34.397px"
-   viewBox="0 0 27.756 34.397"
+   width="300"
+   height="380.70081"
+   viewBox="0 0 300 380.70082"
    enable-background="new 0 0 27.756 34.397"
    xml:space="preserve"
    sodipodi:docname="logo_McGill_University.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
    id="metadata286"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs284" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -33,16 +33,21 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1016"
+   inkscape:window-height="1053"
    id="namedview282"
    showgrid="false"
-   inkscape:zoom="27.444254"
-   inkscape:cx="14.392604"
-   inkscape:cy="22.402149"
+   inkscape:zoom="0.85763294"
+   inkscape:cx="-280.71854"
+   inkscape:cy="-274.68046"
    inkscape:window-x="0"
-   inkscape:window-y="27"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   units="px" />
 <pattern
    x="-230.582"
    y="486.364"
@@ -526,7 +531,7 @@
 
 <g
    id="g4014"
-   transform="matrix(0.0365289,0,0,0.0365289,8.6166528,4.7231391)"><path
+   transform="matrix(1.0958693,0,0,1.0958693,3.0216697e-4,0)"><path
      id="path235"
      d="M 16.104,144.751 C 4.772,104.396 11.398,67.058 11.398,21.897 51.79,1.819 91.786,0 135.128,0 172.603,0 225.753,4.836 257.764,21.833 261.047,64.406 262.934,101.877 252,150.25 241.064,198.622 209.255,265.447 136.72,314.814 57.559,262.931 31.676,200.21 16.104,144.751"
      inkscape:connector-curvature="0"

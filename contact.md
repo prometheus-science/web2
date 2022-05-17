@@ -22,7 +22,7 @@ Note that before any work can be performed, a (virtual) meeting is usually held 
 
 You can also send us a message using this form:
 
-<form action="https://submit-form.com/sV7y563V" class="form" id="contact-form">
+<form action="https://formspree.io/f/mknpbwnr" class="form" id="contact-form">
   <div class="row">
     <div class="col-6">
       <input type="email" name="email" required="required" class="form-control input-lg" placeholder="Email" title="Email" style="margin-bottom: 15px;">
@@ -35,10 +35,10 @@ You can also send us a message using this form:
   
   <div style="margin-top: 5px; display: flex; margin-bottom: 15px; font-size: 0.7rem;">
     <input type="checkbox" id="formspree-subscribe" name="formspree-subscribe" value="agree" checked style="margin-top: 2px; margin-right: 4px;" />
-    <label for="formspree-subscribe">Sign up to Shiny newsletter (unsubscribe at any time)</label>
+    <label for="formspree-subscribe">Sign up to our newsletter (unsubscribe at any time)</label>
   </div>
 
-  <div class="g-recaptcha" data-sitekey="6Levj9waAAAAAKjnDWEPUfENn91YBRofBG7VxCUP" data-callback="enableSubmitContact"></div>
+  <div class="g-recaptcha" data-sitekey="6LcM8wYbAAAAAAjLiIqgMCStBsBndrDNWYKcGjKo" data-callback="enableSubmitContact"></div>
   <input type="hidden" name="_feedback.success.title" value="Thanks for contacting AttaliTech, we'll be in touch shortly!" />
   <input type="hidden" name="_email.from" value="Formspark AttaliTech" />
   <input type="hidden" name="_feedback.error.title" value="An error occurred (did you check the &quot;I'm not a robot&quot; box?)" />

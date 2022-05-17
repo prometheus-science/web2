@@ -11,7 +11,7 @@ navbar-links:
   Open-Source: "/#portfolio"
   Contact Us: "/contact"
 
-title-img: /assets/img/attalitech-logo-light.png
+title-img: /assets/img/logo_minus_slogan.svg
 
 site-css: "/assets/css/attalitech.css"
 
@@ -52,7 +52,7 @@ defaults:
       footer-extra: custom_footer.html
       nav-short: true
       share-description: "Prometheus Science is dedicated to the improvement of research and education through open science services and open source hardware tools."
-      share-img: "/assets/img/attalitech.png"
+      share-img: "/assets/img/logo_minus_slogan.svg"
 
 exclude:
   - CNAME
@@ -66,4 +66,4 @@ plugins:
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+

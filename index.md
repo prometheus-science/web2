@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Prometheus Science | Open Science for everyone"
+title: "Prometheus Science | Open Science & Open Source Hardware Consultancy"
 css:
   - /assets/css/index.css
 ext-css:
@@ -17,9 +17,9 @@ ext-js:
 
 # Prometheus Science {#title}
 
-## Open Science for everyone {#subtitle}
+## Open Science & Open Source Hardware Consultancy {#subtitle}
 
-#### Led by open source hardware expert [Andre M Chagas](https://amchagas.github.io) {#sub-subtitle}
+#### by open source hardware expert [Andre M Chagas](https://amchagas.github.io) {#sub-subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
@@ -94,7 +94,7 @@ ext-js:
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
     <div class="section-title">Clients</div>
-    <div id="clients-subtitle">Clients range from labs across the globe, private companies and individuals</div>
+    <div id="clients-subtitle">Proud to have served labs across the globe, private companies and individuals</div>
     <div id="client-logos">
       {% for client in site.data.clients %}
         <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
@@ -125,7 +125,7 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div class="section-title">
-      Open-Source hardware & Open Science projects we worked on
+      Projects we worked on
     </div>
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}

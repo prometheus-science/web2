@@ -1,10 +1,10 @@
 - icon: fas fa-code
-  content: "**Author of popular packages** [shinyjs](https://deanattali.com/shinyjs) ([featured by RStudio](https://shiny.rstudio.com/articles)), [timevis](https://github.com/daattali/timevis), [addinslist](https://github.com/daattali/addinslist) & [more](https://deanattali.com/projects/#r-packages)"
+  content: "**Author and contributor to many OSH projects** [open visual stimulator](https://github.com/eulerlab/open-visual-stimulator/), [flypi](https://github.com/amchagas/flypi), [Spikeling](https://github.com/badenlab/spikeling) & [more](https://amchagas.github.io)"
 - icon: fas fa-users
-  content: Creator of ["Shiny Case Studies"](https://www.datacamp.com/courses/case-studies-building-web-applications-with-shiny-in-r) course — an interactive, online video course
+  content: Creator of ["Open Neuroscience"](https://open-neuroscience) — a curated list of open source projects for neuroscience
 - icon: fas fa-microphone
-  content: Invited main speaker at **Shiny Developer Conference** hosted by RStudio - [30 min talk](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-shinyjs-deanattali-1080p)
-- icon: fas fa-trophy
-  content: "**Second highest** all-time answerer in the \"shiny\" tag on [StackOverflow](https://stackoverflow.com/tags/shiny/topusers)"
-- icon: fas fa-briefcase
-  content: Previously a **software engineer** at **Google** and top San Francisco startup [Wish.com](https://www.wish.com/)
+  content: Promoting Open Science and Open Source Hardware at [Trend in Africa](https://trendinafrica.org)
+- icon: fas fa-users
+  content: Co-creator of [Open Hardware Makers](https://openhardware.space), a mentoring program teaching best practices for OSH developers
+- icon: fas fa-globe
+  content: Organising and teaching workshops across the globe

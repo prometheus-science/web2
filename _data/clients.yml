@@ -1,31 +1,44 @@
 - name: Freie Universtaet Berlin
   img: fub-logo.png
   url: https://lab.flygen.org/
-  height: 3.125rem
+  height: 5.125rem
 - name: University of Dundee 
   img: dundee.png
   #url: https://www.stanford.edu/
 - name: Pontificia Universidad Catolica de Chile
   img: puc_chile.jpeg
-  url: https://lrwonline.com/
+  #height: 8.125rem
+  url: https://federicilab.org/
 - name: NC State University
-  img: roche.png
-  url: https://www.roche.com/
+  img: NCS.png
+  url: https://www.ncsu.edu/
 - name: Universidade Federal de Goias
-  img: who.png
-  url: https://www.who.int/
+  img: UFG.png
+  url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjckqPc2eb3AhUHXMAKHRzECa0QFnoECAsQAQ&url=https%3A%2F%2Fwww.ufg.br%2F&usg=AOvVaw0ik2yGIa6s6D3mD96QH2DM
 - name: Universitat de Barcelona
-  img: occam.png
-  url: https://www.occam-apps.com/
+  img: logo_University_barcelona.png
+  url: https://www.ub.edu/web/portal/en/
 - name: Universidad Peruana Cayetano Heredia
-  img: androidauthority.png
-  url: https://www.androidauthority.com/
+  img: logo_cayetano_peru.png
+  url: https://investigacion.cayetano.edu.pe/catalogo/biotecnologia/lmi
 - name: Universidad Nacional de Cuyo
-  img: uofzurich.png
-  url: https://www.uzh.ch/
+  img: uni_cuyo.png
+  url: https://www.uncuyo.edu.ar/ingles
 - name: University of Khartoum
-  img: dfnet.png
-  url: https://www.dfnetresearch.com/
+  img: logo_university_of_khartoum.png
+  url: https://science.uofk.edu/en/departments/department-of-physics
 - name: 3D Neuro
   img: 3Dneuro.png
   url: https://www.3dneuro.com/
+- name: University of Wisconsin
+  img: wisconsin.png
+  url: https://sinha.neuro.wisc.edu/raunak/
+- name: University of California, Irvine
+  img: irvine.png
+  url: https://www.reemkhojah.com/
+- name: McGill University
+  img: logo_McGill_University.svg
+  url: https://www.swamylab.com/
+- name: Access 2 Perspectives
+  img: a2p_logo_edges_black.png
+  url: https://access2perspectives.org/
