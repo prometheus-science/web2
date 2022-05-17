@@ -38,7 +38,7 @@ You can also send us a message using this form:
     <label for="formspree-subscribe">Sign up to our newsletter (unsubscribe at any time)</label>
   </div>
 
-  <div class="g-recaptcha" data-sitekey="6Lci5PkfAAAAAKjKBQFaVIlgydKzUUd2f6II9mlW" data-callback="enableSubmitContact"></div>
+  <div class="g-recaptcha" data-sitekey="6LcT5_kfAAAAAFhN2wtb9wCcLRSptb6-aot-BaFo" data-callback="enableSubmitContact"></div>
   <input type="hidden" name="_feedback.success.title" value="Thanks for contacting AttaliTech, we'll be in touch shortly!" />
   <input type="hidden" name="_email.from" value="Formspark AttaliTech" />
   <input type="hidden" name="_feedback.error.title" value="An error occurred (did you check the &quot;I'm not a robot&quot; box?)" />
