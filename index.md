@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Prometheus Science | Open Science & Open Source Hardware Consultancy"
+title: "Prometheus Science | Open Science for everyone"
 css:
   - /assets/css/index.css
 ext-css:
@@ -10,11 +10,6 @@ js:
 ext-js:
   - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
 ---
-<head>
-
-<script defer data-domain="prometheus-science.com" src="https://plausible.io/js/plausible.js"></script>
-
-</head>
 
 <div id="header" class="cut1" markdown="1">
 
@@ -22,9 +17,9 @@ ext-js:
 
 # Prometheus Science {#title}
 
-## Open Science & Open Source Hardware Consultancy {#subtitle}
+## Open Science for everyone {#subtitle}
 
-#### by open source hardware expert [Andre M Chagas](https://amchagas.github.io) {#sub-subtitle}
+#### Led by open source hardware expert [Andre M Chagas](https://amchagas.github.io) {#sub-subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
@@ -88,9 +83,8 @@ ext-js:
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
       At Prometheus, we care about good research, affordable, open customisable tools, and doing things <b>right</b>.<br/><br/>
-      We belive in supporting the communities that make Open Science and Open Source Hardware what it is today. This is why part of our profits will be reverted back to the original developers of the open tools replicated in the form of a donation. <br><br>
-      We believe it is important to recognize previous work and incentivise developers to keep improving their current tools.  
-      Whenever Prometheus Science services are provided using only things developed internally, part of the profits will be donated to an NGO of choice.
+      
+      We believe in developing every project as if it's your own, <b>never </b>compromising on code quality or end-user experience. We focus on more than just delivering a final product - we're always looking for ways to add more <b>value</b> to our clients. Our clients enjoy peace of mind knowing they can trust us to deliver clean, robust, maintainable code that just works.
     </div>
     <a href="/contact" class="actionbtn">
       Work With Us
@@ -101,7 +95,7 @@ ext-js:
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
     <div class="section-title">Clients</div>
-    <div id="clients-subtitle">Proud to have served labs across the globe, private companies and individuals</div>
+    <div id="clients-subtitle">Clients range from labs across the globe, private companies and individuals</div>
     <div id="client-logos">
       {% for client in site.data.clients %}
         <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
@@ -132,7 +126,7 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div class="section-title">
-      Projects we worked on
+      Open-Source hardware & Open Science projects we worked on
     </div>
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}

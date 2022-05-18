@@ -4,17 +4,17 @@
   height: 5.125rem
 - name: University of Dundee 
   img: dundee.png
-  #url: https://www.stanford.edu/
+  url: https://www.sites.google.com/site/vanaaltenlab/
 - name: Pontificia Universidad Catolica de Chile
   img: puc_chile.jpeg
   #height: 8.125rem
   url: https://federicilab.org/
 - name: NC State University
   img: NCS.png
-  url: https://www.ncsu.edu/
+  url: https://kbflores.wordpress.ncsu.edu/
 - name: Universidade Federal de Goias
   img: UFG.png
-  url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjckqPc2eb3AhUHXMAKHRzECa0QFnoECAsQAQ&url=https%3A%2F%2Fwww.ufg.br%2F&usg=AOvVaw0ik2yGIa6s6D3mD96QH2DM
+  url: www.ufg.br
 - name: Universitat de Barcelona
   img: logo_University_barcelona.png
   url: https://www.ub.edu/web/portal/en/
